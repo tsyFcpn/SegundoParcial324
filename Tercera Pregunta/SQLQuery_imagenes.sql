@@ -5,3 +5,4 @@ CREATE TABLE imagenes (
   imagen1	IMAGE,
   imagen2	IMAGE,
 );
+--Conexión con SQL SERVER
